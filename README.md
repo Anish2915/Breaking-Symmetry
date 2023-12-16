@@ -10,12 +10,12 @@ Welcome to "Breaking Symmetry", a captivating 2D puzzle game that challenges you
 
 ## 📝 Table of Contents
 
-- [How to Play](#how_to_play)
 - [Features](#features)
+- [How to Play](#how_to_play)
 - [Approach](#challenges)
 - [Contributing](#contributors)
 
-## ✨ Features
+## <div id = features>✨ Features</div>
 <ul>
   <li><strong>Innovative Gameplay:</strong> <em>Breaking Symmetry</em> introduces a groundbreaking concept where the rules of the game can be dynamically altered. Adapt to ever-changing conditions, think outside the box, and discover new solutions as you progress through a series of mind-bending puzzles.</li>
 
@@ -26,7 +26,7 @@ Welcome to "Breaking Symmetry", a captivating 2D puzzle game that challenges you
 <li><strong>Engaging Puzzles:</strong> Encounter a variety of puzzles, each designed to test different aspects of your problem-solving skills. From logic challenges to spatial reasoning, PuzzleVerse offers a diverse range of brain-teasing scenarios.</li>
 </ul>
 
-## 🎮 How_to_Play
+## <div id = how_to_play>🎮 How_to_Play</div>
  The game consists of two 12 X 12 matrices and each player will be there according to the controls shown.
  Only the WASD keys movement is allowed with the rules as specified on the board.
 
@@ -44,7 +44,7 @@ If you remove BLUE from PLAYER1 or RED from PLAYER2 then those will no longer be
                  <li>Player and texts can't be passed to the other matrix.</li>
 </ol>
 
-## ❔ Challenges
+## <div id = challenges>❔ Challenges</div>
 
 Creating a dynamic and engaging 2D puzzle game posed several challenges, and overcoming them required innovative solutions. Here are the primary challenges faced during the development of PuzzleVerse:
 
@@ -68,7 +68,7 @@ Creating a dynamic and engaging 2D puzzle game posed several challenges, and ove
 The combination of class structures, linked lists, 3D vectors, and optimized algorithms proved instrumental in addressing these challenges and contributed to the successful development of PuzzleVerse. Each solution was tailored to enhance gameplay dynamics while maintaining code efficiency and flexibility.
 
 
-## 🧑🏽‍💻 Contributors
+## <div id = contributors>🧑🏽‍💻 Contributors</div>
 <ul>
   <li>Anish Kumar</li>
   <li>Prakhar Moses</li>
