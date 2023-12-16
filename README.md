@@ -29,8 +29,8 @@ Welcome to "Breaking Symmetry", a captivating 2D puzzle game that challenges you
 ## <div id = how_to_play>🎮 How_to_Play</div>
  The game consists of two 12 X 12 matrices and each player will be there according to the controls shown.
  Only the WASD keys movement is allowed with the rules as specified on the board.
-
-![WhatsApp Image 2023-12-17 at 12 35 13 AM](https://github.com/Anish2915/InterIITGamejam13.0/assets/113628188/11a49960-afa9-475c-8c04-01db4056edd8)
+ 
+<img src = "https://github.com/Anish2915/InterIITGamejam13.0/blob/main/Game_img.jpeg">
 
 <p>As in the image above, Red player controls are defined in the left matrix, and the blue player rules are defined in the right matrix. Since S is on the UP arrow on the left, red moves up upon pressing S. A similar fashion is followed for all other controls. Controls are written on the square and the objects move over it. </p>
 <p>By default, text ROCK is at the stop so you can't go over rocks or push them. But if you bring text ROCK on the PUSH by pushing it, then you can push every rock. Players can push very "text" written to anywhere. If the text is on nothing then the player can pass over it and nothing will happen. Like if text ROCK is on nothing then one can pass over the rocks.
