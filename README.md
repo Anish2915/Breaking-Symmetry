@@ -26,6 +26,9 @@ Welcome to "Breaking Symmetry", a captivating 2D puzzle game that challenges you
 <li><strong>Engaging Puzzles:</strong> Encounter a variety of puzzles, each designed to test different aspects of your problem-solving skills. From logic challenges to spatial reasoning, PuzzleVerse offers a diverse range of brain-teasing scenarios.</li>
 </ul>
 
+## Gameplay Video 
+https://github.com/Anish2915/InterIITGamejam13.0/assets/137883198/4c7f2773-da76-4193-ae9a-705758311f19
+
 ## <div id = how_to_play>🎮 How_to_Play</div>
  The game consists of two 12 X 12 matrices and each player will be there according to the controls shown.
  Only the WASD keys movement is allowed with the rules as specified on the board.
